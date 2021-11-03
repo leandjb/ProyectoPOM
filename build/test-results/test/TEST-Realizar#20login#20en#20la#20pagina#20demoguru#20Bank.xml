@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Realizar login en la pagina demoguru Bank" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-03T04:05:58" hostname="ZEPHYRUS" time="11.263">
+  <properties/>
+  <testcase name="Ingreso a mi Home GTPL Bank" classname="Realizar login en la pagina demoguru Bank" time="11.263"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 95.0.4638.54 (d31a821ec901f68d0d34ccdbaea45b4c86ce543e-refs/branch-heads/4638@{#871}) on port 1875
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Nov 02, 2021 11:06:01 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
